@@ -1,0 +1,132 @@
+/* .css{
+    font-family: "Baskervville SC", serif;
+    font-weight: 400;
+    font-style: normal;
+      
+} */
+
+
+.back{
+    position: relative;
+    top: 10%;
+    height: 100%;
+    width: 100%;
+    border: 5px solid black;
+}
+.dp{
+    position: absolute;
+    top: 100px;
+    left: 700px;
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+}
+.name{
+    position: absolute;
+    top: 300px;
+    left: 720px;
+}
+.class{
+    position: absolute;
+    top: 350px;
+    left: 500px;
+    font-size: 20px;
+}
+.tree{
+    position: absolute;
+    top: 390px;
+    left: 750px;
+    font-size: 20px;
+}
+.link{
+    position: absolute;
+    top: 450px;
+    left: 550px;
+    padding: 10px;
+    border: 2px ;
+    border-radius: 50px;
+    font-size: 20px;
+    width: 500px;
+    text-align: center;
+    background-color: lightpink;
+    color: black;
+    text-decoration: none;
+}
+.lin{
+    position: absolute;
+    top: 520px;
+    left: 550px;
+    padding: 10px;
+    border: 5px ;
+    border-radius: 20px;
+    font-size: 20px;
+    width: 500px;
+    text-align: center;
+    background-color: lightpink;
+    color: black;
+    text-decoration: none;
+}
+.li{
+    position: absolute;
+    top: 590px;
+    left: 550px;
+    padding: 10px;
+    border: 5px;
+    border-radius: 20px;
+    font-size: 20px;
+    width: 500px;
+    text-align: center;
+    background-color: lightpink;
+    color: black;
+    text-decoration: none;
+}
+.l{
+    position: absolute;
+    top: 660px;
+    left: 550px;
+    padding: 10px;
+    border: 5px;
+    border-radius: 20px;
+    font-size: 20px;
+    width: 500px;
+    text-align: center;
+    background-color: lightpink;
+    color: black;
+    text-decoration: none;
+}
+.img{
+   position:absolute;
+   top: 462px;
+   left: 870px;
+   width: 20px;
+   mix-blend-mode: darken;
+}
+.img2{
+    position:absolute;
+    top: 530px;
+    left: 870px;
+    width: 30px;
+    mix-blend-mode: darken;
+ }
+ .img3{
+    position:absolute;
+    top: 596px;
+    left: 870px;
+    width: 30px;
+    mix-blend-mode: darken;
+ }
+ .img4{
+    position:absolute;
+    top: 670px;
+    left: 870px;
+    width: 32px;
+    background-image: none;
+    mix-blend-mode: darken;
+ }
+ .png{
+    position:absolute;
+    top: 408px;
+    left: 830px;
+    width: 20px;
+    mix-blend-mode: darken;
+ }
